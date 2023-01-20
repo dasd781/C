@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Размер каждого поля структуры", "Размер каждого поля структуры\Размер каждого поля структуры.vcxproj", "{8C07E372-DBE6-412E-8525-AEA963AC97BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Debug|x64.ActiveCfg = Debug|x64
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Debug|x64.Build.0 = Debug|x64
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Debug|x86.Build.0 = Debug|Win32
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Release|x64.ActiveCfg = Release|x64
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Release|x64.Build.0 = Release|x64
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Release|x86.ActiveCfg = Release|Win32
+		{8C07E372-DBE6-412E-8525-AEA963AC97BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6318ADA8-2880-4A86-A576-52F80948B6F0}
+	EndGlobalSection
+EndGlobal
