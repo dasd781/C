@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ae2ad560-25a7-44a4-90a2-e67d1c9a19c1}</ProjectGuid>
-    <RootNamespace>Домашнеезаданиепо5блоку</RootNamespace>
+    <ProjectGuid>{d4ca7106-3118-4196-bb1e-0d059ad3d2b6}</ProjectGuid>
+    <RootNamespace>Вызовконструктороввклассе</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -100,11 +100,10 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <WarningLevel>Level4</WarningLevel>
+      <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -128,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Choco.cpp" />
-    <ClCompile Include="Домашнее задание по 5 блоку.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Choco.h" />
+    <ClCompile Include="Вызов_конструкторов_в_классе.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
