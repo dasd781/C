@@ -57,7 +57,7 @@ public:
 
     int& operator[](int index)
     {
-        if (index <= -1 && index > m_length)
+        if (index <= -1 || index > m_length)
         {
             throw std::out_of_range("EROR DIAPOZON NEVERNIY lenght");
         }
