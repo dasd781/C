@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "указатель_auto_ptr", "указатель_auto_ptr\указатель_auto_ptr.vcxproj", "{99678423-62B2-4D00-B36C-3F45A6BF015F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Debug|x64.ActiveCfg = Debug|x64
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Debug|x64.Build.0 = Debug|x64
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Debug|x86.ActiveCfg = Debug|Win32
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Debug|x86.Build.0 = Debug|Win32
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Release|x64.ActiveCfg = Release|x64
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Release|x64.Build.0 = Release|x64
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Release|x86.ActiveCfg = Release|Win32
+		{99678423-62B2-4D00-B36C-3F45A6BF015F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D795C89-1F0F-4C3A-BE94-C564FD7F3D9E}
+	EndGlobalSection
+EndGlobal
