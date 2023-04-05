@@ -29,6 +29,15 @@ int main()
 	else
 		std::cout << "b is false !" << std::endl;
 
+	std::cout << "Enter an integer : ";
+	int x;
+	std::cin >> x;
+
+	if (x == 0)
+		std::cout << "The value is zero " << std::endl;
+	else
+		std::cout << "The value is non-zero" << std::endl;
+
 	return 0;
 
 
