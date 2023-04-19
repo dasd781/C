@@ -8,6 +8,8 @@ public:
 	void push_back(int data);
 	void push_front(int data);
 	void insert(int pos, int data);
+	void deleteNode(int data);
+	void deleteNode(int position);
 private:
 	Node* m_head;
 };
