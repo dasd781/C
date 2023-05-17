@@ -1,0 +1,15 @@
+#pragma once
+
+#define SIZE 10
+
+class HashTable { // хеш-таблица
+public:
+    HashTable();
+    void add(int newval);  // добавление элемента
+private:
+    int hash(int val); // хеш-функция
+
+    int array[SIZE]; // массив данных
+    int count; // количество элементов
+};
+
