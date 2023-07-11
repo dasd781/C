@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB_счит _данных", "DB_счит _данных\DB_счит _данных.vcxproj", "{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Debug|x64.ActiveCfg = Debug|x64
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Debug|x64.Build.0 = Debug|x64
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Debug|x86.Build.0 = Debug|Win32
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Release|x64.ActiveCfg = Release|x64
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Release|x64.Build.0 = Release|x64
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Release|x86.ActiveCfg = Release|Win32
+		{CE0365C9-BC16-4AF8-8C9A-9A2880CCE79A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9309CCD2-26E6-4016-8A1D-6F41E226E7BC}
+	EndGlobalSection
+EndGlobal
